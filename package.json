@@ -1,0 +1,38 @@
+{
+  "name": "floor-plan-v2",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@react-three/drei": "3.8.2",
+    "@react-three/flex": "0.5.2",
+    "i18n-react": "0.7.0",
+    "js-yaml": "3.14.0",
+    "jsts": "2.6.1",
+    "lodash": "4.17.20",
+    "polygon-clipping": "0.15.2",
+    "postprocessing": "6.18.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-postprocessing": "1.4.0",
+    "react-scripts": "3.4.3",
+    "react-three-fiber": "5.3.22",
+    "styled-components": "5.2.1",
+    "three": "0.123.0",
+    "threejs-meshline": "2.0.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
